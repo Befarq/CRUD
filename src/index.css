@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer{
+  .container{@apply mx-auto my-auto max-w-6xl}
+}
